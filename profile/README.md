@@ -1,1 +1,1 @@
-![debug](debug.png)
+![debug](/profile/debug.png)
