@@ -1,1 +1,2 @@
-![debug](/profile/debug.png)
+![debug](/profile/debug.png)  
+© Daniel
